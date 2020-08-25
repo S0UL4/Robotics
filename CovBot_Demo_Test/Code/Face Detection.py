@@ -6,8 +6,6 @@ import serial
 import numpy as np
 bras = serial.Serial("COM7", 9600)
 face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-eye = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
-mouth= cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_mcs_mouth.xml')
 font = cv2.FONT_HERSHEY_COMPLEX
 model = load_model('mask_recog.h5')
 def draw_face_rect(img):
