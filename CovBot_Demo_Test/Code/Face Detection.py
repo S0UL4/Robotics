@@ -9,7 +9,7 @@ face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
 mouth= cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_mcs_mouth.xml')
 font = cv2.FONT_HERSHEY_COMPLEX
-model = load_model('mask_recog_ver2.h5')
+model = load_model('mask_recog.h5')
 def draw_face_rect(img):
     img=img.copy()
     gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
