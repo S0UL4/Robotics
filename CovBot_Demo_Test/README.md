@@ -8,7 +8,13 @@ My first test of the project is based on :
 * Arduino Uno
 * Bluetooth Module ( for the communication between the computer and the arduino )
 
-I'm still working on it , this is not completed yet. :star_struck:
+I'm still working on it , this is not yet completed. :star_struck:
 
 
 ![Image of Yaktocat](https://media.tenor.com/images/534597333e771853bc6b07f68942aacf/tenor.png)
+
+Click on the gif below to Watch!
+
+[![Test Video](doc/ezgif-7-46aa44a09061.gif)](https://www.youtube.com/watch?v=oLfUT-VHgaw " Click to Watch!")
+
+
