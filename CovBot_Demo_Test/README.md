@@ -1,6 +1,6 @@
 # CoviBot DEMO TEST
 This Robot :robot:	 is programmed to detect people who are not wearing their mask during this pandemic ( Covid19) ! .
-He Keeps tracking you with his annoying beep sound until you wear your mask ! it can be very useful nowadays to preventing the Spread of Cronoa Virus.
+He Keeps tracking you with his annoying beep sound until you wear your mask ! it can be very useful nowadays to prevent the Spread of Cronoa Virus.
 This is a Test demo of the project and not yet completed ! :stuck_out_tongue_closed_eyes:	
 My first test of the project is based on :
 * Tensorflow
