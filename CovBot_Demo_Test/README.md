@@ -7,6 +7,7 @@ My first test of the project is based on :
 * OpenCV
 * Arduino Uno
 * Bluetooth Module ( for the communication between the computer and the arduino )
+* 2 Servo motors
 
 I'm still working on it , this is not yet completed. :star_struck:
 
