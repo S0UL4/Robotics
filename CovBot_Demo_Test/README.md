@@ -9,7 +9,7 @@ My first test of the project is based on :
 * Bluetooth Module ( for the communication between the computer and the arduino )
 * 2 Servo motors
 
-I'm still working on it , this is not yet completed. :star_struck:
+I'm still working on it . :star_struck:
 
 
 ![Image of Yaktocat](https://media.tenor.com/images/534597333e771853bc6b07f68942aacf/tenor.png)
