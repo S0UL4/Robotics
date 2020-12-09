@@ -4,11 +4,16 @@ He Keeps tracking you with his annoying beep sound until you wear your mask ! it
 This is a Test demo of the project and not yet completed ! :stuck_out_tongue_closed_eyes:	
 
 My first test of the project is based on :
-OpenCV
-Tensorflow
-Arduino uno
-HC-05 Bluetooth module ( to send data from my computer to the arduino )
-2 Servo motors ( X & Y axis )
+
+* OpenCV
+
+* Tensorflow 
+
+* Arduino uno
+
+* HC-05 Bluetooth module ( to send data from my computer to the arduino )
+
+* 2 Servo motors ( X & Y axis )
 
 Maybe i'll keep working on it to update & add more features and move everything to a Raspberry Pi.. . :star_struck:
 
