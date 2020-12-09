@@ -13,13 +13,13 @@ void setup() {
 int angleX;
 int angleY;
 unsigned int integerValueX=0;
-unsigned int integerValueY=0;  // Max value is 65535
+unsigned int integerValueY=0;  
 char incomingByte;
 void loop()
 { 
-  if (Serial.available() > 0) {   // something came across serial
-    integerValueX = 0;         // throw away previous integerValue
-    while(1) {            // force into a loop until 'n' is received
+  if (Serial.available() > 0) {   
+    integerValueX = 0;         
+    while(1) {            
       incomingByte = Serial.read();
       if (incomingByte == 'X')
       {
@@ -45,7 +45,7 @@ void loop()
     angleX = max(angleX, 30); 
     angleY=min(angleY,179);
     angleY=max(angleY,30);
-    servoX.write(angleX);// Do something with the value
+    servoX.write(angleX);
     servoY.write(angleY);
 }
 }
