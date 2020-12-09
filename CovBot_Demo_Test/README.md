@@ -15,7 +15,7 @@ My first test of the project is based on :
 
 * 2 Servo motors ( X & Y axis )
 
-Maybe i'll keep working on it to update & add more features and move everything to a Raspberry Pi.. . :star_struck:
+Maybe i'll keep working on it to update & add more features then move everything to a Raspberry Pi.. . :star_struck:
 
 
 ![Image of Yaktocat](https://media.tenor.com/images/534597333e771853bc6b07f68942aacf/tenor.png)
