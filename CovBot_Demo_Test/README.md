@@ -20,7 +20,7 @@ Maybe i'll keep working on it to update & add more features then move everything
 
 ![Image of Yaktocat](https://media.tenor.com/images/534597333e771853bc6b07f68942aacf/tenor.png)
 
-Click on the gif below to Watch!
+Click on the gif below to Watch a demo video!
 
 [![Test Video](doc/ezgif-7-46aa44a09061.gif)](https://www.youtube.com/watch?v=oLfUT-VHgaw " Click to Watch!")
 
